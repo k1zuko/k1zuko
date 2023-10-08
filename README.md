@@ -6,5 +6,14 @@
   ~ Class : XI<br>
   ~ School : SVHS One of Gedangan<br>
   Thanks, that's all for my introduction🥶
+ </p> 
+ <h2>What I Learned?</h2>
+ <p>
+  - C++
+  - HTML
+  - Pascal
+  - MYSQL
+  - PHP
+  - maybe Python For The Next😁
  </p>
 </div>
