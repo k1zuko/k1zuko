@@ -1,19 +1,16 @@
-<div>
- <h1>Yeah Bruhhhhhhhhhhhh...<br>Welcome to My Profile Github</h1>
- <p>
-  let me introduce myself😁<br>
-  ~ Name : Muhammad Khoirul Huda<br>
-  ~ Class : XI<br>
-  ~ School : SVHS One of Gedangan<br>
-  Thanks, that's all for my introduction🥶
- </p> 
- <h2>What I Learned?</h2>
- <p>
-  - C++
-  - HTML
-  - Pascal
-  - MYSQL
-  - PHP
-  - maybe Python For The Next😁
- </p>
-</div>
+# Welcome to My Github
+- Name : **Muhammad Khoirul Huda**
+- Class : **XI**
+- School : **SMKN 1 Gedangan**
+<img src="./Anime.jpeg" width=300px align="center" style="float: right;">
+
+
+## What I Learned?
+- C++
+- PHP
+- MYSQL
+- HTML
+- Pascal
+- Maybe Python For The Next
+## What I do now?
+- Learn About **CyberSecurity**
