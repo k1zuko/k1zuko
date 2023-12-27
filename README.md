@@ -2,8 +2,8 @@
 - Name : **Muhammad Khoirul Huda**
 - Class : **XI**
 - School : **SMKN 1 Gedangan**
-<img src="./Anime.jpeg" width=300px align="center" style="float: right;">
 
+<img src="./Anime.jpeg" width=49.75%> <img src="./Anime1.jpeg" width=49.75%>
 
 ## What I Learned?
 - C++
