@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Khoirul Huda</h1>
-<h3 align="center">Manusia biasa...</h3>
+<h1 align="center"> $${>>>\space Kizuko\space \color{red}{a.k.a}\color{white}\space Muhammad\space Khoirul\space Huda\space<<<}$$</h1>
 
 - 🔭 I’m currently student on **SMKN 1 Gedangan**
 
