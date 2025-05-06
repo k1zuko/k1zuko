@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently student on **SMKN 1 Gedangan**
 
-- 😎 CTF Player, Cyber Security Enthusiast, Data Analyst? Idontknow
+- 😎 **CTF Player, Cyber Security Enthusiast**, etc. >> Idontknow
 
-- 📝 My web for now on [hudastilllearning.github.io](hudastilllearning.github.io)
+- 📝 My web for now on [k1zuko](k1zuko.github.io)
 
 - 💬 Just nothing about me
 
