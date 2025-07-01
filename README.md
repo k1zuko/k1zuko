@@ -4,7 +4,9 @@
 
 - 😎 **CTF Player, Cyber Security Enthusiast**, etc. >> Idontknow
 
-- 📝 My web for now on [k1zuko](k1zuko.github.io)
+- 📝 My web for now on https://k1zuko.github.io/
+  
+- /// My portfolio on https://kizuko-portfolio.vercel.app/
 
 - 💬 Just nothing about me
 
