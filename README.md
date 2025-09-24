@@ -1,4 +1,4 @@
-<h1 align="center"> $${Kizuko}$$ $${\color{red}{a.k.a}}$$ $${Muhammad\space Khoirul\space Huda}$$</h1>
+<h1 align="center"> $${Muhammad\space Khoirul\space Huda}$$ $${\color{red}{a.k.a}}$$ $${Kizuko}$$ </h1>
 
 - 🔭 I’m currently student on **SMKN 1 Gedangan**
 
