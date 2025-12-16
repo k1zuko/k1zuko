@@ -2,11 +2,11 @@
 
 - 🔭 I’m currently student on **SMKN 1 Gedangan**
 
-- 😎 **CTF Player, Cyber Security Enthusiast**, etc. >> Idontknow
+- 😎 **CTF Player, Cyber Security Enthusiast, Amateur Web Developer, Beginner Backend**, etc. >> Idontknow
 
-- 📝 My web for now on https://k1zuko.github.io/
+- 📝 My web for now on https://k1zuko.github.io/ (not updated yet)
   
-- /// My portfolio on https://kizuko-portfolio.vercel.app/
+- /// My portfolio on https://kizuko-portfolio.vercel.app/ (not updated yet)
 
 - 💬 Just nothing about me
 
